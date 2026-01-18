@@ -37,4 +37,4 @@ The implementation follows these core stages:
 1. Ensure you have **Java 17+** and **JavaFX SDK** installed.
 2. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/RepoName.git](https://github.com/YourUsername/RepoName.git)
+   git clone https://github.com/abdalrahmantop/AI-Genetic-Algorithm-Project.git
