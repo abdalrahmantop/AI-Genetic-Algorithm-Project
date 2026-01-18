@@ -4,7 +4,6 @@ This project is an implementation of a **Genetic Algorithm (GA)** designed to cr
 
 ## 📸 Project Preview
 ![Project Screenshot](screenshot.png) 
-*Note: Make sure to name your screenshot "screenshot.png" in the root folder.*
 
 ## 🧐 Overview
 The goal of this project is to demonstrate the efficiency of evolutionary search compared to exhaustive brute-force. Instead of trying all $2^{32}$ combinations, the algorithm evolves a population of candidate solutions toward the global optimum using biological principles.
